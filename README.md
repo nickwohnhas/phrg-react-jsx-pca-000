@@ -179,3 +179,4 @@ It's very important to know how this stuff works on a high level, because most o
 - JSX: https://facebook.github.io/react/docs/jsx-in-depth.html
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-jsx'>JSX</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React JSX</p>
